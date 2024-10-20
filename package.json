@@ -1,0 +1,11 @@
+{
+  "name": "learning-backend",
+  "version": "1.0.0",
+  "description": "Learning Backend From Hitesh - Chai aur Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "JS , NodeJS"
+  },
+  "author": "Ravi Shankar Pandey",
+  "license": "ISC"
+}
