@@ -2,10 +2,15 @@
   "name": "learning-backend",
   "version": "1.0.0",
   "description": "Learning Backend From Hitesh - Chai aur Code",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "JS , NodeJS"
+    "test": "JS , NodeJS",
+    "dev": "nodemon index.js"
   },
   "author": "Ravi Shankar Pandey",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
